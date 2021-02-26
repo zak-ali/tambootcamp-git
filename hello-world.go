@@ -1,4 +1,4 @@
-# add a new comment
+# first git file
 # add a second comment
 # add a third comment
 # add a fourth comment
